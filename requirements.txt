@@ -1,0 +1,6 @@
+pandas==2.3.3
+psycopg2-binary==2.9.10
+risingwave-py==0.0.2
+yfinance==0.2.66
+
+
